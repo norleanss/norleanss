@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
+    
+<div>
+    
+<table align="center">
+    <thead>
+        <tr>
+            <th>skills & tools</th>
+            <th>experience</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <p align="center">
+                    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,git,docker,postman,maven&perline=4">
+                </p>
+            </td>
+            <td>
+                <p align="center">
+                    <img src="https://skillicons.dev/icons?i=html,css,c,cs,python,bash&perline=3"></br>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-<!--
-**norleanss/norleanss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+<img src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/128/Retro-Flower-Yoshi-icon.png" width="120""/>
 
-Here are some ideas to get you started:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/norleanss)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
