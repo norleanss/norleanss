@@ -18,7 +18,7 @@
             </td>
             <td>
                 <p align="center">
-                    <img src="https://skillicons.dev/icons?i=html,css,c,cs,python,bash&perline=3"></br>
+                    <img src="https://skillicons.dev/icons?i=html,css,c,cs,python,bash,sqlite&perline=3"></br>
                 </p>
             </td>
         </tr>
