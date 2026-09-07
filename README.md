@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**norleanss/norleanss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table align="center">
+    <thead>
+        <tr>
+            <th>Languages</th>
+            <th>Tools</th>
+            <th>Frameworks & Libraries</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <p align="center">
+                    <img src="https://skillicons.dev/icons?i=java,go&perline=2">
+                </p>
+            </td>
+            <td>
+                <p align="center">
+                    <img src="https://skillicons.dev/icons?i=git,maven,postgres,docker,postman&perline=5">
+                </p>
+            </td>
+            <td>
+                <p align="center">
+                    <img src="https://skillicons.dev/icons?i=spring,hibernate&perline=2">
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-Here are some ideas to get you started:
+<img src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/128/Retro-Flower-Yoshi-icon.png" width="120"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/norleanss)
+
+</div>
