@@ -12,7 +12,7 @@
         <tr>
             <td>
                 <p align="center">
-                    <img src="https://skillicons.dev/icons?i=java,go&perline=2">
+                    <img src="https://skillicons.dev/icons?i=java,go,python,sql&perline=2">
                 </p>
             </td>
             <td>
