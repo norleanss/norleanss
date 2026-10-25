@@ -2,8 +2,8 @@ name: generate github stats cards
 
 on:
   schedule:
-    - cron: '0 3 * * *'
-  workflow_dispatch:
+    - cron: '0 3 * * *'  
+  workflow_dispatch:   
   push:
     branches:
       - main
@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: 'username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false'
           path: out-langs/languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: push stats.svg to stats-output
         uses: crazy-max/ghaction-github-pages@v3.1.0
