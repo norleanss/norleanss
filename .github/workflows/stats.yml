@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: 'username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false'
           path: out-stats/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: generate languages card
         uses: soulteary/github-readme-stats-action@v1.0.0
